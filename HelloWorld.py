@@ -33,5 +33,3 @@ elif x == 7: #else if
     print("x равно 7")
 else:
     print("x меньше 10")
-
-
