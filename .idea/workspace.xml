@@ -4,8 +4,18 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="7305d1c3-1dde-4506-811b-b03820c4617c" name="Changes" comment="Lesson_03">
+    <list default="true" id="7305d1c3-1dde-4506-811b-b03820c4617c" name="Changes" comment="Lesson_04">
+      <change afterPath="$PROJECT_DIR$/GUI9_graphics.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/for_lesson_04/GUI.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/for_lesson_04/GUI2.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/for_lesson_04/GUI3.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/for_lesson_04/GUI4.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/for_lesson_04/GUI5.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/for_lesson_04/GUI6.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/for_lesson_04/GUI7.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/for_lesson_04/GUI8.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/requirements.txt" beforeDir="false" afterPath="$PROJECT_DIR$/requirements.txt" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -33,29 +43,159 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "Python.ConnectToDatabase.executor": "Run",
-    "Python.GUI.executor": "Run",
-    "Python.GUI2.executor": "Run",
-    "Python.GUI3.executor": "Run",
-    "Python.GUI4.executor": "Run",
-    "Python.GUI5.executor": "Run",
-    "Python.GUI6.executor": "Run",
-    "Python.GUI7.executor": "Run",
-    "Python.HelloWorld.executor": "Run",
-    "Python.input_output.executor": "Run",
-    "Python.is_anagramm.executor": "Run",
-    "Python.logic_operations.executor": "Run",
-    "Python.mathematics_in_python.executor": "Run",
-    "Python.numbers.executor": "Run",
-    "Python.process_strings.executor": "Run",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "git-widget-placeholder": "master",
-    "last_opened_file_path": "C:/Users/tschu/Downloads/classic-ui-242.20224.159.zip",
-    "settings.editor.selected.configurable": "editor.preferences.fonts.default"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;Python.ConnectToDatabase.executor&quot;: &quot;Run&quot;,
+    &quot;Python.GUI.executor&quot;: &quot;Run&quot;,
+    &quot;Python.GUI2.executor&quot;: &quot;Run&quot;,
+    &quot;Python.GUI3.executor&quot;: &quot;Run&quot;,
+    &quot;Python.GUI4.executor&quot;: &quot;Run&quot;,
+    &quot;Python.GUI5 (1).executor&quot;: &quot;Run&quot;,
+    &quot;Python.GUI5.executor&quot;: &quot;Run&quot;,
+    &quot;Python.GUI6.executor&quot;: &quot;Run&quot;,
+    &quot;Python.GUI7.executor&quot;: &quot;Run&quot;,
+    &quot;Python.GUI8.executor&quot;: &quot;Run&quot;,
+    &quot;Python.GUI9_graphics.executor&quot;: &quot;Run&quot;,
+    &quot;Python.HelloWorld.executor&quot;: &quot;Run&quot;,
+    &quot;Python.input_output.executor&quot;: &quot;Run&quot;,
+    &quot;Python.is_anagramm.executor&quot;: &quot;Run&quot;,
+    &quot;Python.logic_operations.executor&quot;: &quot;Run&quot;,
+    &quot;Python.mathematics_in_python.executor&quot;: &quot;Run&quot;,
+    &quot;Python.numbers.executor&quot;: &quot;Run&quot;,
+    &quot;Python.process_strings.executor&quot;: &quot;Run&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;master&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/tschu/Downloads/classic-ui-242.20224.159.zip&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.lookFeel&quot;
   }
-}]]></component>
+}</component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\tschu\PycharmProjects\HelloWorld\for_lesson_04" />
+      <recent name="C:\Users\tschu\PycharmProjects\HelloWorld" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Python.fun_plot (1)">
+    <configuration name="GUI" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="HelloWorld" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/for_lesson_04" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/for_lesson_04/GUI.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="GUI9_graphics" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="HelloWorld" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/GUI9_graphics.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="HelloWorld" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="HelloWorld" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/HelloWorld.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="fun_plot (1)" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="HelloWorld" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/fun_plot" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/fun_plot/fun_plot.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="fun_plot" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="HelloWorld" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/for_lesson_04" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="C:\Users\tschu\PycharmProjects\HelloWorld\fun_plot\fun_plot.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.fun_plot (1)" />
+        <item itemvalue="Python.fun_plot" />
+        <item itemvalue="Python.GUI9_graphics" />
+        <item itemvalue="Python.GUI" />
+        <item itemvalue="Python.HelloWorld" />
+      </list>
+    </recent_temporary>
+  </component>
   <component name="SharedIndexes">
     <attachedChunks>
       <set>
@@ -96,13 +236,33 @@
       <option name="project" value="LOCAL" />
       <updated>1726678879409</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="Lesson_04">
+      <option name="closed" value="true" />
+      <created>1726838512310</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1726838512310</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Initial commit" />
     <MESSAGE value="Lesson_02" />
     <MESSAGE value="Lesson_03" />
-    <option name="LAST_COMMIT_MESSAGE" value="Lesson_03" />
+    <MESSAGE value="Lesson_04" />
+    <option name="LAST_COMMIT_MESSAGE" value="Lesson_04" />
   </component>
 </project>
