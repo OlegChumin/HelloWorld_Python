@@ -4,10 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="7305d1c3-1dde-4506-811b-b03820c4617c" name="Changes" comment="Lesson_02">
-      <change afterPath="$PROJECT_DIR$/input_output.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/logic_operations.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/text.txt" afterDir="false" />
+    <list default="true" id="7305d1c3-1dde-4506-811b-b03820c4617c" name="Changes" comment="Lesson_03">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -39,6 +36,13 @@
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
     "Python.ConnectToDatabase.executor": "Run",
+    "Python.GUI.executor": "Run",
+    "Python.GUI2.executor": "Run",
+    "Python.GUI3.executor": "Run",
+    "Python.GUI4.executor": "Run",
+    "Python.GUI5.executor": "Run",
+    "Python.GUI6.executor": "Run",
+    "Python.GUI7.executor": "Run",
     "Python.HelloWorld.executor": "Run",
     "Python.input_output.executor": "Run",
     "Python.is_anagramm.executor": "Run",
@@ -84,12 +88,21 @@
       <option name="project" value="LOCAL" />
       <updated>1726589520518</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="Lesson_03">
+      <option name="closed" value="true" />
+      <created>1726678879409</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1726678879409</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Initial commit" />
     <MESSAGE value="Lesson_02" />
-    <option name="LAST_COMMIT_MESSAGE" value="Lesson_02" />
+    <MESSAGE value="Lesson_03" />
+    <option name="LAST_COMMIT_MESSAGE" value="Lesson_03" />
   </component>
 </project>
